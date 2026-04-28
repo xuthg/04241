@@ -1,0 +1,8 @@
+{
+  "hydrological_models": [],
+  "learned_models": [],
+  "metadata": {
+    "bundle_available": false,
+    "bundle_path": "F:\\华东院基金项目\\model\\042412\\UnifiedGateway\\gateway\\doc\\restful\\outputs\\huadong\\train\\forecast_model_bundle.pt"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "artifacts": [
+    {
+      "kind": "json",
+      "name": "risk",
+      "path": "F:\\华东院基金项目\\model\\042412\\UnifiedGateway\\gateway\\doc\\restful\\outputs\\huadong\\risk\\20260428T080739Z-d9881208\\risk.json",
+      "size_bytes": 771
+    },
+    {
+      "kind": "text",
+      "name": "summary",
+      "path": "F:\\华东院基金项目\\model\\042412\\UnifiedGateway\\gateway\\doc\\restful\\outputs\\huadong\\risk\\20260428T080739Z-d9881208\\summary.txt",
+      "size_bytes": 37
+    }
+  ],
+  "completed_at": "2026-04-28T08:07:39.333473+00:00",
+  "inputs": {
+    "file_path": "F:\\华东院基金项目\\model\\042412\\UnifiedGateway\\gateway\\doc\\restful\\outputs\\huadong\\risk_input_20260428_160739_327161.csv"
+  },
+  "operation": "risk",
+  "options": {
+    "model_columns": [
+      "corrected_forecast"
+    ],
+    "thresholds": {
+      "flood": 300.0,
+      "severe": 500.0
+    }
+  },
+  "run_dir": "F:\\华东院基金项目\\model\\042412\\UnifiedGateway\\gateway\\doc\\restful\\outputs\\huadong\\risk\\20260428T080739Z-d9881208",
+  "run_id": "20260428T080739Z-d9881208",
+  "started_at": "2026-04-28T08:07:39.329851+00:00",
+  "status": "completed",
+  "summary": "Risk computed for 1 ensemble members."
+}

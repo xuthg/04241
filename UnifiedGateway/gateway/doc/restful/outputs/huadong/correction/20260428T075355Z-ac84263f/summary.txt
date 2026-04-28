@@ -1,0 +1,1 @@
+Error metrics: NSE=-11922.162, Bias=52.91, RMSE=52.93. Recalibrate model parameters; baseline outperforms current model. Apply negative bias correction to reduce systematic over-forecasting. Tune peak handling; peak error remains non-zero.

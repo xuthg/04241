@@ -1,0 +1,36 @@
+{
+  "artifacts": [
+    {
+      "kind": "csv",
+      "name": "ensemble",
+      "path": "F:\\华东院基金项目\\model\\042412\\UnifiedGateway\\gateway\\doc\\restful\\outputs\\huadong\\ensemble\\ensemble\\20260428T032630Z-543c3d71\\ensemble.csv",
+      "size_bytes": 112
+    },
+    {
+      "kind": "text",
+      "name": "summary",
+      "path": "F:\\华东院基金项目\\model\\042412\\UnifiedGateway\\gateway\\doc\\restful\\outputs\\huadong\\ensemble\\ensemble\\20260428T032630Z-543c3d71\\summary.txt",
+      "size_bytes": 57
+    },
+    {
+      "kind": "json",
+      "name": "ensemble_details",
+      "path": "F:\\华东院基金项目\\model\\042412\\UnifiedGateway\\gateway\\doc\\restful\\outputs\\huadong\\ensemble\\ensemble\\20260428T032630Z-543c3d71\\ensemble_details.json",
+      "size_bytes": 633
+    }
+  ],
+  "completed_at": "2026-04-28T03:26:30.267337+00:00",
+  "inputs": {
+    "file_path": "F:\\华东院基金项目\\model\\042412\\UnifiedGateway\\gateway\\doc\\restful\\outputs\\huadong\\ensemble\\ensemble_input_20260428_112630_249666.csv"
+  },
+  "operation": "ensemble",
+  "options": {
+    "method": "weighted_mean",
+    "weights": null
+  },
+  "run_dir": "F:\\华东院基金项目\\model\\042412\\UnifiedGateway\\gateway\\doc\\restful\\outputs\\huadong\\ensemble\\ensemble\\20260428T032630Z-543c3d71",
+  "run_id": "20260428T032630Z-543c3d71",
+  "started_at": "2026-04-28T03:26:30.254962+00:00",
+  "status": "completed",
+  "summary": "Ensembled 4 models using weighted_mean; consistency=0.00."
+}

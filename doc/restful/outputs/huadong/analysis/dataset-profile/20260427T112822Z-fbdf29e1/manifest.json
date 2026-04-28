@@ -1,0 +1,35 @@
+{
+  "artifacts": [
+    {
+      "kind": "json",
+      "name": "dataset_profile",
+      "path": "F:\\华东院基金项目\\model\\042412\\doc\\restful\\outputs\\huadong\\analysis\\dataset-profile\\20260427T112822Z-fbdf29e1\\dataset_profile.json",
+      "size_bytes": 437
+    },
+    {
+      "kind": "text",
+      "name": "summary",
+      "path": "F:\\华东院基金项目\\model\\042412\\doc\\restful\\outputs\\huadong\\analysis\\dataset-profile\\20260427T112822Z-fbdf29e1\\summary.txt",
+      "size_bytes": 57
+    },
+    {
+      "kind": "json",
+      "name": "dataset_profile_summary",
+      "path": "F:\\华东院基金项目\\model\\042412\\doc\\restful\\outputs\\huadong\\analysis\\dataset-profile\\20260427T112822Z-fbdf29e1\\dataset_profile_summary.json",
+      "size_bytes": 437
+    }
+  ],
+  "completed_at": "2026-04-27T11:28:22.877615+00:00",
+  "inputs": {
+    "dataset_path": "F:\\华东院基金项目\\model\\042412\\HuadongCode\\data\\basin_001_hourly.csv"
+  },
+  "operation": "dataset-profile",
+  "options": {
+    "column": "streamflow"
+  },
+  "run_dir": "F:\\华东院基金项目\\model\\042412\\doc\\restful\\outputs\\huadong\\analysis\\dataset-profile\\20260427T112822Z-fbdf29e1",
+  "run_id": "20260427T112822Z-fbdf29e1",
+  "started_at": "2026-04-27T11:28:22.506615+00:00",
+  "status": "completed",
+  "summary": "Loaded dataset profile for basin_hourly with 146732 rows."
+}

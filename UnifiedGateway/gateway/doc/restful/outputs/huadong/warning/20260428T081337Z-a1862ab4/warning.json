@@ -1,0 +1,21 @@
+{
+  "drought_warning": {
+    "drought_start_index": null,
+    "spi_threshold": -1.0,
+    "spi_values": [
+      0.0,
+      0.0,
+      0.0011827617712655526,
+      -0.016876939726411376
+    ],
+    "warning_events": [],
+    "warning_level": "none"
+  },
+  "flood_warning": {
+    "earliest_warning_time": null,
+    "lead_time": null,
+    "warning_events": [],
+    "warning_level": "none",
+    "warning_threshold": 300.0
+  }
+}

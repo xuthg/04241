@@ -1,0 +1,31 @@
+{
+  "artifacts": [
+    {
+      "kind": "json",
+      "name": "model_assets_profile",
+      "path": "F:\\华东院基金项目\\model\\042412\\doc\\restful\\outputs\\huadong\\analysis\\model-asset-profile\\20260428T071605Z-9a703bb2\\model_assets_profile.json",
+      "size_bytes": 590
+    },
+    {
+      "kind": "text",
+      "name": "summary",
+      "path": "F:\\华东院基金项目\\model\\042412\\doc\\restful\\outputs\\huadong\\analysis\\model-asset-profile\\20260428T071605Z-9a703bb2\\summary.txt",
+      "size_bytes": 27
+    },
+    {
+      "kind": "json",
+      "name": "model_assets_profile_summary",
+      "path": "F:\\华东院基金项目\\model\\042412\\doc\\restful\\outputs\\huadong\\analysis\\model-asset-profile\\20260428T071605Z-9a703bb2\\model_assets_profile_summary.json",
+      "size_bytes": 590
+    }
+  ],
+  "completed_at": "2026-04-28T07:16:05.020335+00:00",
+  "inputs": {},
+  "operation": "model-asset-profile",
+  "options": {},
+  "run_dir": "F:\\华东院基金项目\\model\\042412\\doc\\restful\\outputs\\huadong\\analysis\\model-asset-profile\\20260428T071605Z-9a703bb2",
+  "run_id": "20260428T071605Z-9a703bb2",
+  "started_at": "2026-04-28T07:16:05.008505+00:00",
+  "status": "completed",
+  "summary": "Loaded model asset profile."
+}

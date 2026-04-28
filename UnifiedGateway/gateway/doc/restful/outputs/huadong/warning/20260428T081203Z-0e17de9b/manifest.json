@@ -1,0 +1,31 @@
+{
+  "artifacts": [
+    {
+      "kind": "json",
+      "name": "warning",
+      "path": "F:\\华东院基金项目\\model\\042412\\UnifiedGateway\\gateway\\doc\\restful\\outputs\\huadong\\warning\\20260428T081203Z-0e17de9b\\warning.json",
+      "size_bytes": 440
+    },
+    {
+      "kind": "text",
+      "name": "summary",
+      "path": "F:\\华东院基金项目\\model\\042412\\UnifiedGateway\\gateway\\doc\\restful\\outputs\\huadong\\warning\\20260428T081203Z-0e17de9b\\summary.txt",
+      "size_bytes": 46
+    }
+  ],
+  "completed_at": "2026-04-28T08:12:03.808314+00:00",
+  "inputs": {
+    "file_path": "F:\\华东院基金项目\\model\\042412\\UnifiedGateway\\gateway\\doc\\restful\\outputs\\huadong\\warning_input_20260428_161203_794983.csv"
+  },
+  "operation": "warning",
+  "options": {
+    "forecast_column": "corrected_forecast",
+    "lead_time_hours": 24,
+    "warning_threshold": 300.0
+  },
+  "run_dir": "F:\\华东院基金项目\\model\\042412\\UnifiedGateway\\gateway\\doc\\restful\\outputs\\huadong\\warning\\20260428T081203Z-0e17de9b",
+  "run_id": "20260428T081203Z-0e17de9b",
+  "started_at": "2026-04-28T08:12:03.800348+00:00",
+  "status": "completed",
+  "summary": "Flood=none, drought=none for 4 forecast steps."
+}

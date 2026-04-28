@@ -1,0 +1,31 @@
+{
+  "artifacts": [
+    {
+      "kind": "json",
+      "name": "warning",
+      "path": "F:\\华东院基金项目\\model\\042412\\doc\\restful\\outputs\\huadong\\warning\\warning\\20260428T080450Z-0d2a8037\\warning.json",
+      "size_bytes": 4204819
+    },
+    {
+      "kind": "text",
+      "name": "summary",
+      "path": "F:\\华东院基金项目\\model\\042412\\doc\\restful\\outputs\\huadong\\warning\\warning\\20260428T080450Z-0d2a8037\\summary.txt",
+      "size_bytes": 50
+    }
+  ],
+  "completed_at": "2026-04-28T08:04:54.162875+00:00",
+  "inputs": {
+    "file_path": "F:\\华东院基金项目\\model\\042412\\doc\\restful\\outputs\\huadong\\correction\\20260427T133429Z-83164930\\corrected.csv"
+  },
+  "operation": "warning",
+  "options": {
+    "forecast_column": "corrected_forecast",
+    "lead_time_hours": 24,
+    "warning_threshold": 300.0
+  },
+  "run_dir": "F:\\华东院基金项目\\model\\042412\\doc\\restful\\outputs\\huadong\\warning\\warning\\20260428T080450Z-0d2a8037",
+  "run_id": "20260428T080450Z-0d2a8037",
+  "started_at": "2026-04-28T08:04:50.577586+00:00",
+  "status": "completed",
+  "summary": "Flood=red, drought=blue for 146732 forecast steps."
+}

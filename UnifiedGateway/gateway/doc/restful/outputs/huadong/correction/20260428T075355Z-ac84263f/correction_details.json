@@ -1,0 +1,24 @@
+{
+  "anomaly_info": {
+    "anomaly_indices": [],
+    "anomaly_timestamps": [],
+    "anomaly_types": []
+  },
+  "correction_summary": {
+    "recommendations": [
+      "Recalibrate model parameters; baseline outperforms current model.",
+      "Apply negative bias correction to reduce systematic over-forecasting.",
+      "Tune peak handling; peak error remains non-zero."
+    ],
+    "summary_text": "Recalibrate model parameters; baseline outperforms current model. Apply negative bias correction to reduce systematic over-forecasting. Tune peak handling; peak error remains non-zero."
+  },
+  "error_metrics": {
+    "Bias": 52.90500000000001,
+    "Correlation": 0.7405435269916438,
+    "MAE": 52.90500000000001,
+    "NSE": -11922.162127659596,
+    "RMSE": 52.933383606189395,
+    "peak_error": 55.82000000000001,
+    "peak_time_error": 0
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "artifacts": [
+    {
+      "kind": "csv",
+      "name": "forecast",
+      "path": "F:\\华东院基金项目\\model\\042412\\UnifiedGateway\\gateway\\doc\\restful\\outputs\\huadong\\forecast\\20260428T065554Z-22e9ce31\\forecast.csv",
+      "size_bytes": 720
+    },
+    {
+      "kind": "text",
+      "name": "summary",
+      "path": "F:\\华东院基金项目\\model\\042412\\UnifiedGateway\\gateway\\doc\\restful\\outputs\\huadong\\forecast\\20260428T065554Z-22e9ce31\\summary.txt",
+      "size_bytes": 49
+    },
+    {
+      "kind": "json",
+      "name": "forecast_metrics",
+      "path": "F:\\华东院基金项目\\model\\042412\\UnifiedGateway\\gateway\\doc\\restful\\outputs\\huadong\\forecast\\20260428T065554Z-22e9ce31\\forecast_metrics.json",
+      "size_bytes": 532
+    }
+  ],
+  "completed_at": "2026-04-28T06:55:55.543663+00:00",
+  "inputs": {
+    "file_path": "F:\\华东院基金项目\\model\\042412\\UnifiedGateway\\gateway\\doc\\restful\\outputs\\huadong\\input_20260428_145554_038921.csv"
+  },
+  "operation": "forecast",
+  "options": {},
+  "run_dir": "F:\\华东院基金项目\\model\\042412\\UnifiedGateway\\gateway\\doc\\restful\\outputs\\huadong\\forecast\\20260428T065554Z-22e9ce31",
+  "run_id": "20260428T065554Z-22e9ce31",
+  "started_at": "2026-04-28T06:55:54.057526+00:00",
+  "status": "completed",
+  "summary": "Forecasted 6 steps with 4 models; best RMSE=0.22."
+}

@@ -1,0 +1,37 @@
+{
+  "consistency": {
+    "consistency_ratio": 0.0,
+    "ensemble_mean": [],
+    "trend_correlations": {}
+  },
+  "ensemble": {
+    "ensemble_forecast": [
+      154.02040761036972,
+      148.76277154687722
+    ],
+    "n_models": 4,
+    "weights_used": [
+      0.25,
+      0.25,
+      0.25,
+      0.25
+    ]
+  },
+  "screening": {
+    "model_metrics": {},
+    "passed_models": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "rejected_models": [],
+    "rejection_reasons": {}
+  },
+  "selected_model_names": [
+    "forecast_xinanjiang",
+    "forecast_gr4j",
+    "forecast_rf",
+    "forecast_lstm"
+  ]
+}

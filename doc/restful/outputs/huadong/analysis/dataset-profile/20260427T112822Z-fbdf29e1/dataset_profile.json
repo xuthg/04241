@@ -1,0 +1,18 @@
+{
+  "field_names": [
+    "time",
+    "precipitation",
+    "potential_evapotranspiration",
+    "streamflow"
+  ],
+  "n_rows": 146732,
+  "schema_name": "basin_hourly",
+  "series": {
+    "pet": 146732,
+    "rainfall": 146732,
+    "streamflow": 146732
+  },
+  "source_path": "F:\\华东院基金项目\\model\\042412\\HuadongCode\\data\\basin_001_hourly.csv",
+  "time_end": "2025/3/15 1:00",
+  "time_start": "2008/6/18 6:00"
+}

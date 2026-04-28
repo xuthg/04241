@@ -1,0 +1,22 @@
+{
+  "hydrological_models": [
+    "gr4j",
+    "xaj"
+  ],
+  "learned_models": [
+    "ensemble_initial_weights",
+    "linear",
+    "lstm",
+    "rf"
+  ],
+  "metadata": {
+    "bundle_available": true,
+    "bundle_path": "F:\\华东院基金项目\\model\\042412\\HuadongCode\\data\\calibrated_parameters\\forecast_model_bundle.pt",
+    "bundle_version": 1,
+    "n_rows_used": 96,
+    "random_seed": 42,
+    "sequence_length": 4,
+    "serializer": "torch",
+    "training_dataset_path": "F:\\华东院基金项目\\model\\042412\\HuadongCode\\data\\basin_001_hourly.csv"
+  }
+}

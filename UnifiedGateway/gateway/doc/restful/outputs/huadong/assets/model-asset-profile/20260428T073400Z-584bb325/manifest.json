@@ -1,0 +1,33 @@
+{
+  "artifacts": [
+    {
+      "kind": "json",
+      "name": "model_assets_profile",
+      "path": "F:\\华东院基金项目\\model\\042412\\UnifiedGateway\\gateway\\doc\\restful\\outputs\\huadong\\assets\\model-asset-profile\\20260428T073400Z-584bb325\\model_assets_profile.json",
+      "size_bytes": 266
+    },
+    {
+      "kind": "text",
+      "name": "summary",
+      "path": "F:\\华东院基金项目\\model\\042412\\UnifiedGateway\\gateway\\doc\\restful\\outputs\\huadong\\assets\\model-asset-profile\\20260428T073400Z-584bb325\\summary.txt",
+      "size_bytes": 27
+    },
+    {
+      "kind": "json",
+      "name": "model_assets_profile_summary",
+      "path": "F:\\华东院基金项目\\model\\042412\\UnifiedGateway\\gateway\\doc\\restful\\outputs\\huadong\\assets\\model-asset-profile\\20260428T073400Z-584bb325\\model_assets_profile_summary.json",
+      "size_bytes": 266
+    }
+  ],
+  "completed_at": "2026-04-28T07:34:00.701567+00:00",
+  "inputs": {},
+  "operation": "model-asset-profile",
+  "options": {
+    "bundle_path": "F:\\华东院基金项目\\model\\042412\\UnifiedGateway\\gateway\\doc\\restful\\outputs\\huadong\\train\\forecast_model_bundle.pt"
+  },
+  "run_dir": "F:\\华东院基金项目\\model\\042412\\UnifiedGateway\\gateway\\doc\\restful\\outputs\\huadong\\assets\\model-asset-profile\\20260428T073400Z-584bb325",
+  "run_id": "20260428T073400Z-584bb325",
+  "started_at": "2026-04-28T07:34:00.692522+00:00",
+  "status": "completed",
+  "summary": "Loaded model asset profile."
+}

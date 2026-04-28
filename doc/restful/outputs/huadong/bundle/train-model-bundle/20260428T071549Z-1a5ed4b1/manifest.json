@@ -1,0 +1,38 @@
+{
+  "artifacts": [
+    {
+      "kind": "json",
+      "name": "training_bundle_summary",
+      "path": "F:\\华东院基金项目\\model\\042412\\doc\\restful\\outputs\\huadong\\bundle\\train-model-bundle\\20260428T071549Z-1a5ed4b1\\training_bundle_summary.json",
+      "size_bytes": 1139
+    },
+    {
+      "kind": "text",
+      "name": "summary",
+      "path": "F:\\华东院基金项目\\model\\042412\\doc\\restful\\outputs\\huadong\\bundle\\train-model-bundle\\20260428T071549Z-1a5ed4b1\\summary.txt",
+      "size_bytes": 40
+    },
+    {
+      "kind": "json",
+      "name": "training_bundle_details",
+      "path": "F:\\华东院基金项目\\model\\042412\\doc\\restful\\outputs\\huadong\\bundle\\train-model-bundle\\20260428T071549Z-1a5ed4b1\\training_bundle_details.json",
+      "size_bytes": 1139
+    }
+  ],
+  "completed_at": "2026-04-28T07:15:49.880645+00:00",
+  "inputs": {
+    "dataset_path": "F:\\华东院基金项目\\model\\042412\\HuadongCode\\data\\basin_001_hourly.csv"
+  },
+  "operation": "train-model-bundle",
+  "options": {
+    "bundle_path": "F:\\华东院基金项目\\model\\042412\\HuadongCode\\data\\calibrated_parameters\\forecast_model_bundle.pt",
+    "lstm_epochs": 20,
+    "max_rows": 96,
+    "sequence_length": 4
+  },
+  "run_dir": "F:\\华东院基金项目\\model\\042412\\doc\\restful\\outputs\\huadong\\bundle\\train-model-bundle\\20260428T071549Z-1a5ed4b1",
+  "run_id": "20260428T071549Z-1a5ed4b1",
+  "started_at": "2026-04-28T07:15:49.229627+00:00",
+  "status": "completed",
+  "summary": "Trained and saved forecast model bundle."
+}

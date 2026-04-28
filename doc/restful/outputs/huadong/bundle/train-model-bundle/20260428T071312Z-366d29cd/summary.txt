@@ -1,0 +1,1 @@
+Trained and saved forecast model bundle.
